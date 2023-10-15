@@ -29,14 +29,6 @@ function Avatar() {
   );
 }
 
-// function Image(props) {
-//   return (
-//     <div>
-//       <img className="avatar" src={props.avatar} alt={props.name} />
-//     </div>
-//   );
-// }
-
 function Intro() {
   return (
     <header className="data">
